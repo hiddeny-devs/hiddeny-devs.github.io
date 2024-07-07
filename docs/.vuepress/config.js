@@ -2,6 +2,15 @@ import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { plumeTheme, defineNavbar } from 'vuepress-theme-plume'
 
+export default defineNavbar([
+  { text: '首页', link: '/' },
+  { text: '博客', link: '/blog/' },
+  { text: '教程', link: '/docs/tutorials/index' },
+  { text: 'API', link: '/docs/api/README' },
+  { text: '关于', link: '/docs/about/credits'}
+])
+
+
 export default defineUserConfig({
   lang: 'zh-CN',
   title: '隐藏之年',
@@ -15,14 +24,14 @@ export default defineUserConfig({
       location: '地球'
     },
      notes: {
-      dir: '/notes/', // 声明所有笔记的目录
+      dir: '/docs/', // 声明所有笔记的目录
       link: '/', // 声明所有笔记默认的链接前缀， 默认为 '/'
       notes: [
         {
           dir: 'tutorials', // 声明笔记的目录，相对于 `notes.dir`
           link: '/tutorials/', // 声明笔记的链接前缀
           text: '教程',
-          sidebar: 'auto'
+          sidebar: { text: '教程', items: ['index','start', 'manual-import'] }
         },
         {
           dir: 'about', // 声明笔记的目录，相对于 `notes.dir`
