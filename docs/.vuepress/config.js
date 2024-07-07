@@ -13,6 +13,22 @@ export default defineUserConfig({
       circle: false, 
       organization: '星屹工作室',
       location: '地球'
+    },
+     notes: {
+      dir: '/notes/', // 声明所有笔记的目录
+      link: '/', // 声明所有笔记默认的链接前缀， 默认为 '/'
+      notes: [
+        {
+          dir: 'tutorials', // 声明笔记的目录，相对于 `notes.dir`
+          link: '/tutorial/', // 声明笔记的链接前缀
+          sidebar: [ // 配置侧边栏
+            {
+              text: '基础教程',
+              items: ['start',"manual-import"] // 简化写法，主题会自动补全为 `foo.md`
+            }
+          ]
+        }
+      ]
     }
   }),
   bundler: viteBundler(),
