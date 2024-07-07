@@ -18,7 +18,7 @@ config:
           theme: alt
           text: 了解更多
           link: /notes/README.md
-  -
+ -
     type: features
     features:
       -
