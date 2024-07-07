@@ -1,5 +1,4 @@
 # 开始
-
 ## 玩前须知
 隐藏之年²基于`BSD 3-Clause`许可发布，你可以下载、游玩、转载、修改、再发布到任意地方，前提是必须带有原来的协议、且不可以以星屹工作室或隐藏之年²的名字做市场推广。
 
@@ -8,9 +7,9 @@
 我们也不建议将其转载至网易版，因为两者使用的接口不一致，可能会导致各种奇怪的问题。
 
 ## 下载
-[基岩版下载](https://pan.huang1111.cn/s/xePzfV){: .md-button }
+- [基岩版下载](https://pan.huang1111.cn/s/xePzfV)
 
-[Fabric版下载](https://www.mcmod.cn/download/12453.html){: .md-button }
+- [Fabric版下载](https://www.mcmod.cn/download/12453.html)
 
 ## 安装
 在安装前，请保证你下载了**最新的Minecraft基岩版**。
