@@ -1,6 +1,6 @@
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
-import { plumeTheme } from 'vuepress-theme-plume'
+import { plumeTheme, defineNavbar } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -9,7 +9,7 @@ export default defineUserConfig({
     profile: {
       name: '隐藏之年开发组',
       description: '星屹工作室下隐藏之年的专门开发组',
-      avatar: '/team.png',
+      avatar: 'https://s21.ax1x.com/2024/07/07/pkWDags.png',
       circle: false, 
       organization: '星屹工作室',
       location: '地球'
@@ -20,13 +20,15 @@ export default defineUserConfig({
       notes: [
         {
           dir: 'tutorials', // 声明笔记的目录，相对于 `notes.dir`
-          link: '/tutorial/', // 声明笔记的链接前缀
-          sidebar: [ // 配置侧边栏
-            {
-              text: '基础教程',
-              items: ['start',"manual-import"] // 简化写法，主题会自动补全为 `foo.md`
-            }
-          ]
+          link: '/tutorials/', // 声明笔记的链接前缀
+          text: '教程',
+          sidebar: 'auto'
+        },
+        {
+          dir: 'about', // 声明笔记的目录，相对于 `notes.dir`
+          link: '/about/', // 声明笔记的链接前缀
+          text: '关于',
+          sidebar: 'auto'
         }
       ]
     }
