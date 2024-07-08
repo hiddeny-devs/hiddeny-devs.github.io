@@ -1,4 +1,9 @@
-# 手动导入
+---
+title: 手动导入
+author: 方漓猫
+createTime: 2024/07/08
+permalink: /config/frontmatter/basic/
+---
 有时Minecraft的自动导入可能出现资源缺失的问题，此时应尝试将模组手动导入至游戏目录内。
 
 请注意，因为步骤繁琐，本文所述内容应在自动导入无效或出现问题时再尝试。

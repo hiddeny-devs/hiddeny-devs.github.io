@@ -1,4 +1,9 @@
-# 开始
+---
+title: 开始
+author: 方漓猫
+createTime: 2024/07/08
+permalink: /config/frontmatter/basic/
+---
 ## 玩前须知
 隐藏之年²基于`BSD 3-Clause`许可发布，你可以下载、游玩、转载、修改、再发布到任意地方，前提是必须带有原来的协议、且不可以以星屹工作室或隐藏之年²的名字做市场推广。
 
