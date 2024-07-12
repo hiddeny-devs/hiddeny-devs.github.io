@@ -4,11 +4,12 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
+  fullscreen: true,
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "隐年组",
+    url: "https://gitee.com/hiddeny-devs",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -26,7 +27,8 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "",
+  copyright: "Copyright © 2023-present 隐藏之年开发组",
   displayFooter: true,
 
   // 加密配置
@@ -40,7 +42,6 @@ export default hopeTheme({
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
   },
-
 
   hotReload: true,
 
