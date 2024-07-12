@@ -6,14 +6,14 @@ heroImage: https://s21.ax1x.com/2024/07/11/pkhrmIf.png
 bgImageStyle:
   background-attachment: fixed
 heroText: 隐藏之年
-tagline: 一个尚在开发中的 Minecraft 基岩版模组
+tagline: 探索未知的世界
 actions:
   - text: 快速开始
     icon: lightbulb
     link: ./tutorials/start
     type: primary
 
-  - text: 文档
+  - text: 教程
     link: ./tutorials/
 
 features:
@@ -30,13 +30,25 @@ features:
         icon: ticket
         details: 新的材料，为你的冒险之旅保驾护航
       -
+        title: 更多货币
+        icon: coins
+        details: 模组添加了三种新的货币，它们与原版的绿宝石等效，但获取更为方便
+      -
         title: 精巧道具
         icon: screwdriver-wrench
         details: 模组添加了许多奇妙的小玩意，让你的冒险之旅增添几分不一样的乐趣！ 
       -
+        title: 原版亦不同
+        icon: mug-hot
+        details: 随机的生物血量计算方式、更丰厚的战利品——即使是原版内容也不一样！
+      -
         title: 持续更新
+        icon: bolt
+        details: 我们仍在持续完善模组，使其早日成为内容丰富的冒险模组
+      -
+        title: 以及更多
         icon: truck-fast
-        details: 我们仍在持续完善模组，使其早日成为内容丰富的冒险模组 
+        details: 更多等待你的发现......
 ---
 
 ## 安装步骤

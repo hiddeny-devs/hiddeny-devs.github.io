@@ -5,18 +5,16 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   fullscreen: true,
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://hy2.ctnstudios.top",
 
   author: {
-    name: "隐年组",
+    name: "隐藏之年开发组",
     url: "https://gitee.com/hiddeny-devs",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
-
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  logo: "https://s21.ax1x.com/2024/07/12/pk4i5m8.png",
 
   docsDir: "src",
 
@@ -31,22 +29,22 @@ export default hopeTheme({
   copyright: "Copyright © 2023-present 隐藏之年开发组",
   displayFooter: true,
 
-  // 加密配置
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
-
   // 多语言配置
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
+  },
+  blog: {
+    name: "隐藏之年开发组",
+    avatar: "https://s21.ax1x.com/2024/07/12/pk4ihOf.png",
+    description: "鸽子们的聚集地"
   },
 
   hotReload: true,
 
   // 在这里配置主题提供的插件
   plugins: {
+    searchPro: true,
+    photoSwipe: true,
     blog: true,
 
     components: {
@@ -55,6 +53,7 @@ export default hopeTheme({
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
+      alert: true,
       align: true,
       attrs: true,
       codetabs: true,

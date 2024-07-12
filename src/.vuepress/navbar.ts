@@ -5,7 +5,7 @@ export default navbar([
   {
     text: "博客",
     icon: "blog",
-    link: "/article/index",
+    link: "/blog",
   },
   {
     text: "教程",
@@ -13,8 +13,13 @@ export default navbar([
     link: "/tutorials/index",
   },
   {
-    text: "API文档",
-    icon: "book",
-    link: "/docs/api/index",
+    text: "关于",
+    icon: "bars",
+    children: [
+      "/about/credits",
+      "/about/license",
+      "/about/contribute",
+      "/about/links",
+    ],
   },
 ]);

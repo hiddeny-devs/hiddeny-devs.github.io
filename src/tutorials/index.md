@@ -1,6 +1,5 @@
 ---
-title: 指南索引
+title: 教程
 icon: lightbulb
+article: false
 ---
-## 基础教程
--  [快速开始](./start)
