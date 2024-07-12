@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://hy2.ctnstudios.top/sitemap.xml
