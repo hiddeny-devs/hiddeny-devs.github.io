@@ -32,6 +32,7 @@ export default sidebar({
       children: [
         "/tutorials/item/fuel_metal",
         "/tutorials/item/mineral_fuel",
+        "/tutorials/item/copper_food"
       ]
     },
     {
