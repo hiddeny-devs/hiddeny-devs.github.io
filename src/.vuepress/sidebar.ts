@@ -23,7 +23,9 @@ export default sidebar({
       icon: "gears",
       text: "游戏玩法",
       children: [
-       "/tutorials/gameplay/article"
+       "/tutorials/gameplay/article",
+       "/tutorials/gameplay/quest",
+       "/tutorials/gameplay/quest-list"
       ] 
     },
     {
