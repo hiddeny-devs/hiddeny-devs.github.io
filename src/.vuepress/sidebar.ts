@@ -8,6 +8,7 @@ export default sidebar({
       icon: "circle-info",
       text: "关于",
       children: [
+        "/about/version",
         "/about/credits",
         "/about/license",
         "/about/contribute",
