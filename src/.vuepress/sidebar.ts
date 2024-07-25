@@ -17,7 +17,6 @@ export default sidebar({
     }
   ],
   "/dev": [
-    "",
     "/dev/index",
     "/dev/publish-version"
   ],
