@@ -25,7 +25,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "",
+  footer: "「探索未知的世间」",
   copyright: "Copyright © 2023-present 隐藏之年开发组",
   displayFooter: true,
 

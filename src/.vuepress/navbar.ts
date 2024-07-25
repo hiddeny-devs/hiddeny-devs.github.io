@@ -16,7 +16,7 @@ export default navbar([
     text: "关于",
     icon: "bars",
     children: [
-      "about/version",
+      "/dev/index",
       "/about/credits",
       "/about/license",
       "/about/contribute",

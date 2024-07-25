@@ -16,6 +16,11 @@ export default sidebar({
       ]
     }
   ],
+  "/dev": [
+    "",
+    "/dev/index",
+    "/dev/publish-version"
+  ],
   "/tutorials":[
     "/tutorials/index",
     "/tutorials/start",
