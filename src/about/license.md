@@ -54,7 +54,7 @@ All textual and graphical content on Minecraft Wiki that we may lawfully license
 隐藏之年²的部分代码/资源以下的开源项目，谨此对这些项目的开发者致以崇高的敬意！
 
 ### Lazuli
-Lazuli（Project Lantern） 是一个开源的 Minecraft 基岩版脚本工具链，由隐藏之年开发组维，本模组的任务系统基于其制作而来。
+Lazuli（Project Lantern） 是一个开源的 Minecraft 基岩版脚本工具链，由隐藏之年开发组维护，本模组的任务系统基于其制作而来。
 
 ```
 Copyright © 2023-2024 隐藏之年开发组
