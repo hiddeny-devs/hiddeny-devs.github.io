@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 主页
-heroImage: https://s21.ax1x.com/2024/07/11/pkhrmIf.png
+heroImage: https://s11.ax1x.com/2024/02/16/pFGrIZ8.png
 bgImageStyle:
   background-attachment: fixed
 heroText: 隐藏之年

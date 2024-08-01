@@ -34,15 +34,25 @@ export default sidebar({
       ] 
     },
     {
-      icon: "compass",
-      text: "物品与方块",
+      icon: "toolbox",
+      text: "材料与工具",
       children: [
         "/tutorials/item/fuel_metal",
-        "/tutorials/item/mineral_fuel",
-        "/tutorials/item/copper_food",
-        "/tutorials/item/medicine"
+        "/tutorials/item/mineral_fuel"       
       ]
     },
+    {
+      icon: "utensils",
+      text: "食物与饮品",
+      children: [
+      "/tutorials/item/copper_food",
+        "/tutorials/item/syrup",
+        "/tutorials/item/honey_candy",
+        "/tutorials/item/marshallow",
+        "/tutorials/item/chocolate",
+        "/tutorials/item/medicine"
+      ]
+    }
     {
       icon: "book",
       text: "文章",
