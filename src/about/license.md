@@ -37,8 +37,35 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
 
+## 模组资源
+### Minecraft Wiki
+本模组任务系统中的方块标准视图 *（Standardized views）* 来自于[Minecraft Wiki](https://zh.minecraft.wiki)，著作权声明如下：
+
+Minecraft content and materials are the intellectual property of their respective owners.
+
+All textual and graphical content on Minecraft Wiki that we may lawfully license is licensed to you under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) license.
+
+### Freesound.org
+本模组部分音效来自于Freesound.org：
+
+- Fireworks1 by vialgames -- https://freesound.org/s/736641/ -- License: Creative Commons 0
+
 ## 其他开源项目
 隐藏之年²的部分代码/资源以下的开源项目，谨此对这些项目的开发者致以崇高的敬意！
+
+### Lazuli
+Lazuli（Project Lantern） 是一个开源的 Minecraft 基岩版脚本工具链，由隐藏之年开发组维，本模组的任务系统基于其制作而来。
+
+```
+Copyright © 2023-2024 隐藏之年开发组
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
 
 ### 石头工艺
 

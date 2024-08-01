@@ -52,7 +52,7 @@ export default sidebar({
         "/tutorials/item/chocolate",
         "/tutorials/item/medicine"
       ]
-    }
+    },
     {
       icon: "book",
       text: "文章",
