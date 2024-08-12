@@ -34,7 +34,7 @@ export default sidebar({
       ] 
     },
     {
-      icon: "codepen",
+      icon: "cube",
       text: "材料",
       children: [
         "/tutorials/materials/index",   
