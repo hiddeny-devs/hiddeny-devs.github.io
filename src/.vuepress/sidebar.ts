@@ -25,7 +25,7 @@ export default sidebar({
     "/tutorials/start",
     "/tutorials/manual-import",
     {
-      icon: "gears",
+      icon: "gamepad",
       text: "游戏玩法",
       children: [
        "/tutorials/gameplay/article",
@@ -34,10 +34,29 @@ export default sidebar({
       ] 
     },
     {
-      icon: "toolbox",
-      text: "材料与工具",
+      icon: "codepen",
+      text: "材料",
       children: [
-        "/tutorials/materials/index",
+        "/tutorials/materials/index",   
+      ]
+    },
+    {
+      icon: "toolbox",
+      text: "工具与武器",
+      children: [
+        "/tutorials/tools/index",  
+        "/tutorials/tools/hammer",
+        "/tutorials/tools/crowbar",
+        "/tutorials/tools/awl",
+        "/tutorials/tools/knife",
+        "/tutorials/tools/dagger",
+        "/tutorials/tools/boardsword",                            
+      ]
+    },
+    {
+      icon: "feather",
+      text: "道具",
+      children: [
         "/tutorials/item/fuel_metal",
         "/tutorials/item/mineral_fuel"       
       ]

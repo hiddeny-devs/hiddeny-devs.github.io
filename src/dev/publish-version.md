@@ -8,7 +8,7 @@ article: false
 - 撰写更新日志
 - 打包
 - 发布至官方QQ群
-- 发布Gitee发行版
+- 发布Codeberg发行版
 - 发布至网盘
 - 发布至Minebbs
 - 发布至苦力怕论坛
@@ -22,6 +22,6 @@ article: false
 - 撰写更新日志
 - 打包
 - 发布至官方QQ群
+- 发布Codeberg发行版
 - 发布至网盘
-- 发布至MC百科
 - 撰写版本说明，发布至官网博客
