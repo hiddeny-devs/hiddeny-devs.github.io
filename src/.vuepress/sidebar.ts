@@ -37,6 +37,7 @@ export default sidebar({
       icon: "toolbox",
       text: "材料与工具",
       children: [
+        "/tutorials/materials/index",
         "/tutorials/item/fuel_metal",
         "/tutorials/item/mineral_fuel"       
       ]
@@ -45,7 +46,7 @@ export default sidebar({
       icon: "utensils",
       text: "食物与饮品",
       children: [
-      "/tutorials/item/copper_food",
+        "/tutorials/item/copper_food",
         "/tutorials/item/syrup",
         "/tutorials/item/honey_candy",
         "/tutorials/item/marshallow",
