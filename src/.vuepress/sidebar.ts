@@ -37,7 +37,22 @@ export default sidebar({
       icon: "cube",
       text: "材料",
       children: [
-        "/tutorials/materials/index",   
+        "/tutorials/materials/index",
+        "/tutorials/materials/wooden",  
+        "/tutorials/materials/golden", 
+        "/tutorials/materials/stone",
+        "/tutorials/materials/copper",
+        "/tutorials/materials/bone",
+        "/tutorials/materials/amethyst",
+        "/tutorials/materials/over_metal",
+        "/tutorials/materials/flash_metal",
+        "/tutorials/materials/iron",
+        "/tutorials/materials/corrosion",
+        "/tutorials/materials/flash_copper",
+        "/tutorials/materials/diamond",
+        "/tutorials/materials/steel",
+        "/tutorials/materials/netherite",
+        "/tutorials/materials/smaragdus",
       ]
     },
     {
