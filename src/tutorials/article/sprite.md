@@ -1,6 +1,7 @@
 ---
 title: 精灵史摘要
 article: false
+author: 卡图库斯纳尔
 ---
 > [!caution]
 > 本文涉及剧透，请谨慎阅读
